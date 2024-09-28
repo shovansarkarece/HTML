@@ -25,5 +25,6 @@
 - Tables: ```<table>``` **, with ```<tr>``` for rows, and <td> for cells.**
 - Forms: ```<form>``` **for user input.**
   - Input Elements: ```<input> , <textarea> , <button> , ```etc.
-
+## 5. Comments:
+- ```<!-- Comment -->```**: Comments are not displayed in the browser, but they can help document your HTML source code.**
 
