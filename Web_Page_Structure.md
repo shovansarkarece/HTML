@@ -4,7 +4,7 @@
 ## 2. HTML Element:
 ```<html> ```**:This is the root element of an HTML page.**
 ### 3. Head Section:
-```<head>``` ** : Contains meta-information about the document, like character encoding, title, linked CSS files, and scripts. ** 
+```<head>``` **: Contains meta-information about the document, like character encoding, title, linked CSS files, and scripts.** 
 ```<meta charset="UTF-8">``` ** : Specifies the character encoding for the HTML document.**
 <title> : Title of the webpage, displayed in the browser's title bar or tab.
 <link rel="stylesheet" href="style.css"> : Link to an external CSS file.
