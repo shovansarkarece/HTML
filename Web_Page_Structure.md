@@ -7,7 +7,7 @@
 ```<head>``` **: Contains meta-information about the document, like character encoding, title, linked CSS files, and scripts.** 
 
 ```<meta charset="UTF-8">``` **: Specifies the character encoding for the HTML document.**
-<title> : Title of the webpage, displayed in the browser's title bar or tab.
+```<title>``` **: Title of the webpage, displayed in the browser's title bar or tab.**
 <link rel="stylesheet" href="style.css"> : Link to an external CSS file.
 <script src="script.js"></script> : Link to an external JavaScript file.
 4. Body Section:
