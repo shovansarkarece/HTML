@@ -6,8 +6,9 @@
 ## Description Meta Tag
 - A brief summary of the page's content.
   -   ```<meta name="description" content="Short description of the page.">```
-SEO Meta Tags
-Keywords Meta Tag: Lists keywords relevant to the page's content.
+## SEO Meta Tags
+### Keywords Meta Tag: Lists keywords relevant to the page's content.
+  - ```<meta name="keywords" content="keyword1, keyword2">```
 Robots Meta Tag: Directives for search engine crawling and indexing.
 HTTP-Equiv Meta Tags
 Content-Type: Specifies the character encoding for the HTML document.
