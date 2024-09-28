@@ -9,11 +9,15 @@
 ## SEO Meta Tags
 ### Keywords Meta Tag: Lists keywords relevant to the page's content.
   - ```<meta name="keywords" content="keyword1, keyword2">```
-Robots Meta Tag: Directives for search engine crawling and indexing.
-HTTP-Equiv Meta Tags
-Content-Type: Specifies the character encoding for the HTML document.
-Default-Style: Defines the default stylesheet.
-Refresh: Sets an automatic page refresh interval.
+### Robots Meta Tag: Directives for search engine crawling and indexing.
+  - ```<meta name="robots" content="index, follow">```
+## HTTP-Equiv Meta Tags
+### Content-Type: Specifies the character encoding for the HTML document.
+  - ```<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">```
+### Default-Style: Defines the default stylesheet.
+  - ```<meta http-equiv="default-style" content="style.css">```
+### Refresh: Sets an automatic page refresh interval.
+  - ```<meta http-equiv="refresh" content="30">```
 <title>Page Title</title>
 <meta name="description" content="Short description of the page.">
 <meta name="keywords" content="keyword1, keyword2">
