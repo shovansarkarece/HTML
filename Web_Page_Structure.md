@@ -18,7 +18,7 @@
 - Headings: ```<h1> to <h6>```**: tags for headings (h1 for the main heading).**
 - Paragraphs: ```<p>```**tag for paragraphs.**
 - Links: **<a href="url"> to create a hyperlink.**
-Images: <img src="image.jpg" alt="description"> for embedding images.
+- Images: ```<img src="image.jpg" alt="description">``` **for embedding images.**
 Lists:
 Ordered List: <ol> with <li> items.
 Unordered List: <ul> with <li> items.
