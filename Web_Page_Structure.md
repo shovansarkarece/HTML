@@ -23,7 +23,7 @@
   - Ordered List: ```<ol>``` **with ```<li>``` items.**
   - Unordered List: ```<ul>``` **with ```<li>``` items.**
 - Tables: ```<table>``` **, with ```<tr>``` for rows, and <td> for cells.**
-Forms: <form> for user input.
-Input Elements: <input> , <textarea> , <button> , etc.
+- Forms: ```<form>``` **for user input.**
+  - Input Elements: ```<input> , <textarea> , <button> , ```etc.
 
 
