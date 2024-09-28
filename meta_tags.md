@@ -3,7 +3,9 @@
 ### Basic Meta Tags
 - Title Tag: Defines the page title shown in browser tabs and search results.
   - ```<title>Page Title</title>```
-Description Meta Tag: A brief summary of the page's content.
+## Description Meta Tag
+- A brief summary of the page's content.
+  -   ```<meta name="description" content="Short description of the page.">```
 SEO Meta Tags
 Keywords Meta Tag: Lists keywords relevant to the page's content.
 Robots Meta Tag: Directives for search engine crawling and indexing.
