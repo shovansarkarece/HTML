@@ -11,7 +11,8 @@
 ```<title>``` **: Title of the webpage, displayed in the browser's title bar or tab.**
 
 ```<link rel="stylesheet" href="style.css">```**: Link to an external CSS file.**
-<script src="script.js"></script> : Link to an external JavaScript file.
+
+```<script src="script.js"></script>```** : Link to an external JavaScript file.**
 4. Body Section:
 <body> : Contains the contents of the HTML document. This is where you place the content that will be visible to users. Headings: <h1> to <h6> tags for headings (h1 for the main heading).
 Paragraphs: <p> tag for paragraphs.
