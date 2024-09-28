@@ -19,9 +19,9 @@
 - Paragraphs: ```<p>```**tag for paragraphs.**
 - Links: **<a href="url"> to create a hyperlink.**
 - Images: ```<img src="image.jpg" alt="description">``` **for embedding images.**
-Lists:
-Ordered List: <ol> with <li> items.
-Unordered List: <ul> with <li> items.
+- Lists:
+  - Ordered List: ```<ol>``` **with ```<li>``` items.**
+  - Unordered List: ```<ul>``` with <li> items.
 Tables: <table> , with <tr> for rows, and <td> for cells.
 Forms: <form> for user input.
 Input Elements: <input> , <textarea> , <button> , etc.
