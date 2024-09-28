@@ -18,10 +18,20 @@
   - ```<meta http-equiv="default-style" content="style.css">```
 ### Refresh: Sets an automatic page refresh interval.
   - ```<meta http-equiv="refresh" content="30">```
-<title>Page Title</title>
-<meta name="description" content="Short description of the page.">
-<meta name="keywords" content="keyword1, keyword2">
-<meta name="robots" content="index, follow">
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta http-equiv="default-style" content="style.css">
-<meta http-equiv="refresh" content="30">
+## Open Graph Meta Tags (For Social Media)
+### OG Title: The title for social media sharing.
+```<meta property="og:title" content="Social Media Title">```
+### OG Type: The type of content (e.g., website, article).
+```<meta property="og:type" content="article">```
+OG Image: Image URL for social media.
+Twitter Card Meta Tags
+Twitter Card: The Twitter card type.
+Twitter Title/Description: Title and description for Twitter.
+Mobile Device Meta Tags
+Viewport: Controls the page's viewport settings.
+Security Meta Tags
+Content-Security-Policy: Security policy for resource loading.
+Web Application Meta Tags
+
+
+<meta property="og:image" content="http://example.com/image.jpg">
